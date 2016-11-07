@@ -1,0 +1,2 @@
+colorlog>=2.6.1
+gitpython>=2.0.8
